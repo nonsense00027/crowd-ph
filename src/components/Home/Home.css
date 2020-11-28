@@ -1,0 +1,14 @@
+.home {
+  min-height: 100vh;
+  background: linear-gradient(174.48deg, #291b1b -12.41%, #451414 88.56%);
+}
+
+.home footer {
+  margin-top: 20px;
+  background-color: #fff;
+  height: 50px;
+  text-align: center;
+  padding: 10px 0;
+  color: #222;
+  font-size: 16px;
+}

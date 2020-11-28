@@ -1,0 +1,7 @@
+.information {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  min-height: 80vh;
+  margin-top: 100px;
+}
